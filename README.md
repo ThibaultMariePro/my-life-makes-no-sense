@@ -6,7 +6,7 @@ Please send help I don't know what I'm doing. Later I might update this README t
 
 | Tech         | Function          | Status      | Commentary              |
 | ------------ | ----------------- | ----------- | ----------------------- |
-| Symfony 6    | Backend           | Installed   |                         |
+| Symfony~~6~~7| Backend           | Installed   |                         |
 | NextJS       | Frontend          | Installed   |                         |
 | ShadCN       | UI components     | Installed   |                         |
 | Aceternity   | UI                | TODO        |                         |
